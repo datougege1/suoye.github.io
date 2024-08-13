@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://datougege1.github.io/suoye.github.io/</id>
+    <title></title>
+    <updated>2024-08-13T13:23:20.850Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://datougege1.github.io/suoye.github.io/"/>
+    <link rel="self" href="https://datougege1.github.io/suoye.github.io/atom.xml"/>
+    <subtitle>等待，然后去期待！</subtitle>
+    <logo>https://datougege1.github.io/suoye.github.io/images/avatar.png</logo>
+    <icon>https://datougege1.github.io/suoye.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, </rights>
+</feed>
